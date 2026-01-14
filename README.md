@@ -1,1 +1,1 @@
-# dilip-powerbi-corporate-finance-portfolio
+# dilip-powerbi-PowerBI-portfolio
